@@ -12,3 +12,6 @@ Wifi: BCM94360NG (native support).
 
 ## Check my blog for more information:
 https://medium.com/@jiashun.zheng/hackintosh-journey-on-a-lenovo-yoga-720-81d3f0717922
+
+
+修复了亮度快捷键
